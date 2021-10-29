@@ -32,13 +32,6 @@
 <br/>
 
 <div align="center">
-    <video autoplay loop src="./images/video.mp4" height=200>&nbsp;&nbsp;
-</div>
-
-<br/>
-<br/>
-
-<div align="center">
 
 [live demo](https://skip-app-1984.netlify.app/)
 
